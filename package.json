@@ -1,0 +1,27 @@
+{
+  "name": "structure",
+  "version": "1.0.0",
+  "description": "数据结构实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flycj/structure.git"
+  },
+  "keywords": [
+    "data-structure",
+    "javascript",
+    "js"
+  ],
+  "author": "flycj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flycj/structure/issues"
+  },
+  "homepage": "https://github.com/flycj/structure#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
